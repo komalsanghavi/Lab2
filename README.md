@@ -9,3 +9,6 @@ https://github.com/komalsanghavi/Lab2Fork-101.git
 link to pull request:
 https://github.com/UVA-CS3240-S18/Lab2Fork-101/pull/37
 made a change to pig.py: when asking for a y/n for rolling a dice, if you said anything other than 'n', it would just assume it was a 'y' - this change allowed for input validation
+
+link to issue:
+https://github.com/UVA-CS3240-S18/IveGotIssues/issues/42
